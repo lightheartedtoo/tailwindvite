@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwindvite/static/css/main.0583ba23.css",
+    "main.js": "/tailwindvite/static/js/main.bb1693b0.js",
+    "index.html": "/tailwindvite/index.html",
+    "main.0583ba23.css.map": "/tailwindvite/static/css/main.0583ba23.css.map",
+    "main.bb1693b0.js.map": "/tailwindvite/static/js/main.bb1693b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0583ba23.css",
+    "static/js/main.bb1693b0.js"
+  ]
+}
